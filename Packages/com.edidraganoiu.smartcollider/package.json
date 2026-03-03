@@ -1,0 +1,10 @@
+{
+    "name": "com.edidraganoiu.smartcollider",
+    "version": "0.1.0",
+    "displayName": "Smart Collider",
+    "description": "Multi-primitive collider auto-fitting tool using PCA and greedy decomposition.",
+    "unity": "2022.3",
+    "author": {
+        "name": "Eduard Draganoiu"
+    }
+}

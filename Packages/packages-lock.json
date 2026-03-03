@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.edidraganoiu.smartcollider": {
+      "version": "file:com.edidraganoiu.smartcollider",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.10",
       "depth": 0,

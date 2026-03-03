@@ -1,0 +1,19 @@
+{
+    "name": "com.edidraganoiu.smartcollider.runtime",
+    "rootNamespace": "SmartCollider",
+    "references": [
+        "UnityEngine.CoreModule",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "Standalone",
+        "iOS",
+        "Android"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
